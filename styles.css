@@ -1,0 +1,108 @@
+*{
+    margin : 0px;
+    padding : 0px;
+    box-sizing : border-box;
+    font-family: 'Exo 2', sans-serif;
+    scroll-behavior: smooth;
+}
+
+
+section{
+    padding-top: 100px;
+    padding-bottom: 100px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.banner{
+    
+    background-color:black ;
+    margin-right: 0px;
+    margin-left: 0px;
+    color:white;
+
+}
+
+.banner h2{
+    font-size: 3em;
+    font-weight: 500;
+    line-height: 1.5em;
+}
+
+.banner span{
+    font-size: 2em;
+    font-weight: 700;
+}
+.banner h3{
+    font-size: 1.5em;
+    font-weight: 500;
+    margin:0px
+}
+.heading{
+    width:100%;
+    text-align: center;
+    margin-bottom: 30px;
+}
+.content{
+    font-size: 1.5em;
+}
+.aboutimg{
+    margin-left: 100px;
+    margin-bottom: 20px;
+}
+.Learning{
+    background-color: #111;
+}
+.heading1{
+    font-size: 200%; ;
+    width:100%;
+    text-align: center;
+    margin-bottom: 30px;
+    color: white;
+}
+
+.Learning .row .lncontent{
+    margin-top: 40px; 
+    background-color: #222;
+    color: white;
+    border: 0.5px solid white;
+    padding: 20px;
+}
+.Learning .row .lncontent:hover{
+    background: #333;
+
+}
+.heading2{
+    font-size: 200%; ;
+    width:100%;
+    text-align: center;
+    margin-bottom: 80px;
+    
+}
+.hcontent{
+    margin-bottom: 40px;
+    font-size: 130%;
+}
+form{
+    align-items: center;
+}
+.heading3{
+    font-size: 1000%; ;
+    width:100%;
+    text-align: center;
+    margin-bottom: 50px;
+}
+.contact{
+    background-color:#111;
+    color: white;
+}
+.cmcontent{
+    margin-top: 40px; 
+    background-color: white;
+    border: 0.5px solid black;
+    padding: 20px;
+}
+.cmcontent:hover{
+    background: #333;
+
+}
