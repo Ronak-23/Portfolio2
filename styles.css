@@ -4,6 +4,7 @@
     box-sizing : border-box;
     font-family: 'Exo 2', sans-serif;
     scroll-behavior: smooth;
+    overflow-x: hidden;
 }
 
 
