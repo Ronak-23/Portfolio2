@@ -78,6 +78,7 @@ section{
 }
 .heading2 h1{
     font-size: 400%; ;
+    font-weight: 1000;
     width:100%;
     text-align: center;
     margin-bottom: 80px;
