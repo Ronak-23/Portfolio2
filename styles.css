@@ -39,8 +39,11 @@ section{
     font-weight: 500;
     margin:0px
 }
-.heading{
+.heading h1{
+
     width:100%;
+    font-size: 400%;
+    font-weight: 1000;
     text-align: center;
     margin-bottom: 30px;
 }
@@ -48,13 +51,14 @@ section{
     font-size: 1.5em;
 }
 .aboutimg{
+    
     margin-bottom: 20px;
 }
 .Learning{
     background-color: #111;
 }
-.heading1{
-    font-size: 200%; ;
+.heading1 h1{
+    font-size: 400%; ;
     width:100%;
     text-align: center;
     margin-bottom: 30px;
@@ -72,8 +76,8 @@ section{
     background: #333;
 
 }
-.heading2{
-    font-size: 200%; ;
+.heading2 h1{
+    font-size: 400%; ;
     width:100%;
     text-align: center;
     margin-bottom: 80px;
@@ -86,8 +90,8 @@ section{
 form{
     align-items: center;
 }
-.heading3{
-    font-size: 1000%; ;
+.heading3 h1{
+    font-size: 300%; ;
     width:100%;
     text-align: center;
     margin-bottom: 50px;
